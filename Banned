@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("              You Have Been Banned                                            Bạn Đã Bị Band")
+game.Players.LocalPlayer:Kick("           You Have Been Banned                                               Bạn Đã Bị Band")
